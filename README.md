@@ -5,10 +5,11 @@
 - 🌱 I’m currently learning CODE with Full stack Development Program at Hack Your Future
 - 🔭 I’m currently working on Horeca
 -  📫 How to reach me:lishangebremariam16@gmail.com
+-  https://www.linkedin.com/in/lishan-gebremariam-369173157/
 
  
   
--
+
 
 
 
